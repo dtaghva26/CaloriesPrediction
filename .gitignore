@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# MLflow
+mlruns/
+
+# Data
+dataset/
+data/
+
+# Models
+model/
+*.pkl
+
+# Reports
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
